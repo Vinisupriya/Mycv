@@ -1,2 +1,3 @@
 # Mycv
-my 1st web application
+My cv as web application
+
